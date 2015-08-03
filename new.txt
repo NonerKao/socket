@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 123456
+=======
+yellow: no
+scopion: 1234
+>>>>>>> 29d0f2c8bdad89cc69117884425af4215eda1b5e
